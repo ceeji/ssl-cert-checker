@@ -1,0 +1,6 @@
+domains:
+  - domain: www.baidu.com
+    name: 百度
+#   ignore_server_name: true
+days_before_expire: 30
+webhook_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=xxx"
